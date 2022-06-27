@@ -1,0 +1,23 @@
+h4 {
+    color: whitesmoke; 
+    font-size: auto;
+    border: ridge rgb(124, 243, 124) 5px;
+}
+ul{
+    color:white;
+    font-size: auto;
+    border: solid rgb(115, 206, 156) 5px;
+}
+body{
+    background-color: #588157;
+    background-image: url("R.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.filmes{
+    color: crimson;
+}
+#titulo{
+    font-size: 89px;
+}
+
